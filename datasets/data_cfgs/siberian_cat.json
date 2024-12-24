@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "<TOK>",
+        "instance_data_dir": "datasets/concept/siberian_cat/image",
+        "caption_dir": "datasets/concept/siberian_cat/caption",
+        "mask_dir": "datasets/concept/siberian_cat/mask"
+    }
+]

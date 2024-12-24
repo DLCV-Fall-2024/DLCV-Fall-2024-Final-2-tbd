@@ -1,0 +1,4 @@
+photo of a <TOK>
+<TOK>
+Flower in a <TOK>.
+A <TOK> on a table.

@@ -1,0 +1,6 @@
+photo of a <TOK>
+<TOK>
+A <TOK> surrounded with leaves.
+photo of a flower
+A <TOK> in a vase.
+

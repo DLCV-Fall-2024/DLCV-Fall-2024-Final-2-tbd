@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "<TOK>",
+        "instance_data_dir": "datasets/concept/corgi_dog/image",
+        "caption_dir": "datasets/concept/corgi_dog/caption",
+        "mask_dir": "datasets/concept/corgi_dog/mask"
+    }
+]

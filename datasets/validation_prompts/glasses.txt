@@ -1,0 +1,5 @@
+photo of a <TOK>
+<TOK>
+A <TOK> on table.
+photo of a wearable glasses
+
