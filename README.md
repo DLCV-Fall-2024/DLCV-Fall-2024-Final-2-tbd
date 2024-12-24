@@ -8,8 +8,9 @@ The pipeline first trains **ed-lora** for each concept and fuses them together d
 
 ## Setup
 
-### 1. Download Pretrained Models (will take for 20 minutes)
+### 1. Download Packages and Pretrained Models (will take for 20 minutes)
 ```bash
+pip install -r requirements.txt
 mkdir pretrained_models
 cd pretrained_models
 git lfs install

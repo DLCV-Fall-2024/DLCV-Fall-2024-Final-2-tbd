@@ -8,3 +8,4 @@ sample_submission.csv
 /outputs/
 /test_env/
 /pretrained_models/
+__pycache__/
